@@ -62,8 +62,11 @@ Explore:
 
 Totals by Type: Summaries of total column grouped by type.
 Monthly Summaries (2024): Product sales, refunds, fees, etc., aggregated by month.
+
 Cumulative Sales in 2024: See how many units and how much product revenue each SKU has accumulated throughout the year.
+
 Project Structure
+
 bash
 Copy code
 .
@@ -71,6 +74,7 @@ Copy code
 ├── requirements.txt      # Python dependencies
 ├── README.md             # This file
 └── ...                   # Additional scripts, data, etc.
+
 Contributing
 Pull Requests are welcome. For major changes, please open an issue first to discuss your proposed modification.
 Ensure that any code style changes are consistent with the rest of the project.
